@@ -1,4 +1,4 @@
-# Moip Automation tests
+# Automation tests
 
 Automation of Moip API's and Moip my account, using the BDD framework Cucumber to provide documentation to automated tests.
 
